@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:sara.huntley95@gmail.com
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/sara-huntley"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
