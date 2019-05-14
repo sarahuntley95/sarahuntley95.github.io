@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /my-projects/
-title: "Project Posts by tags"
+title: "My Projects"
 author_profile: true
 header:
   image: "/images/laketahoeheader.jpg"
