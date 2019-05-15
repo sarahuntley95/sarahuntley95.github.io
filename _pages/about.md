@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/downtownheader.jpg"
+  image: "/images/laketahoeheader.jpg"
 ---
 
 This is my description
