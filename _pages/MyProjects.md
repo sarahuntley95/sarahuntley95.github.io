@@ -5,6 +5,7 @@ title: "My Projects"
 author_profile: true
 header:
   image: "/images/laketahoeheader.jpg"
+
 # --- Add this if you want the tags but they ugly
 # {% include base_path %}
 # {% include group-by-array collection=site.posts field="tags" %}
@@ -16,3 +17,5 @@ header:
 #     {% include archive-single.html %}
 #   {% endfor %}
 #  {% endfor %}
+
+---
