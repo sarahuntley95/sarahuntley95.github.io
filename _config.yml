@@ -14,9 +14,9 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Settings
+# Site Setting
 locale                   : "en-US"
-title                    : "Sara Huntley"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Sara Huntley"
 description              : "My Portfolio"
