@@ -1,5 +1,5 @@
 ---
-title: "Project: Two-Class Boosted Decision Tree"
+title: "Two-Class Boosted Decision Tree"
 date: 2018-04-05
 tags: [Azure Machine Learning]
 #header:

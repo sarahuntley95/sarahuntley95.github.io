@@ -1,5 +1,5 @@
 ---
-title: "Project: Hyperparameter Tuning with Two-Class Models"
+title: "Hyperparameter Tuning with Two-Class Models"
 date: 2018-04-13
 tags: [Azure Machine Learning]
 #header:
