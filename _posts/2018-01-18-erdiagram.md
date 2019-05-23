@@ -7,6 +7,6 @@ tags: [Database]
 excerpt: "Database"
 ---
 
-![ER Conceptual](filesforprojects/ERDiagram.JPG "ER Conceptual Diagram")
+![ER Conceptual](/filesforprojects/ERDiagram.JPG "ER Conceptual Diagram")
 
-![ER Diagram](filesforprojects/ERDiagram2.JPG "ER Database Diagram")
+![ER Diagram](/filesforprojects/ERDiagram2.JPG "ER Database Diagram")
