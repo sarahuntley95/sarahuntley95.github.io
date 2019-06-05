@@ -10,7 +10,7 @@ excerpt: "Business Intelligence, Tableau, Forecasting"
 
 Our team was required to work with a business, utilize our skills learned in our program, and provide recommendations to improve business processes. This project showcases business strategy, data cleansing techniques, visualizations through a Tableau dashboard, forecasting net sales, and optimization of labor costs.
 
-###Executive Summary
+### Executive Summary
 
 A fast food franchise owner, Paul Singh, recently opened a new Popeyes Louisiana Kitchen in Lynden, Washington. Paul is interested in applying data-driven analytical techniques in order to maximize the profitability of the new restaurants. Provided with a limited five month data set and minimal direction, our approach was to analyze each of the key profit margin drivers that Paul outlined, including net sales, customer count, location near the Canadian border, and labor hours and their associated costs. The data we received from Paul was a set of manually populated Excel spreadsheets that tracked daily net sales, customer counts, the breakdown of drive thru sales, dine in sales and several other attributes. In order to complete our analysis, we relied primarily on Excel and Tableau to identify correlations, project future sales, and prepare an optimized labor schedule.
 
