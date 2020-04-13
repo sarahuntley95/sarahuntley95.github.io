@@ -1,0 +1,3 @@
+"dependencies": {
+  "mixin-deep": ">=1.3.2"
+}
